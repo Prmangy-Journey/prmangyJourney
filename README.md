@@ -9,4 +9,4 @@ Here's a [link](https://docs.google.com/document/d/1Jz-jQ4xf2dkP4uPHQZO-A6ORa8GG
 
 This is an image of our project's domain model 
 
-![domainModel](img/Domain Modeling .png)
+![domainModel](img/DomainModeling.png)
