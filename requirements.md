@@ -10,14 +10,14 @@
 ## Scope (In/Out)
 
 **IN**:     
-        - Users will be able to add reviews
-        - The website will provide information about the content of the different courses in       the program
-        - Users will be able to view alumni’s projects
-        - Users will be able to take a quiz as part of the website interactive activity   
+- Users will be able to add reviews
+- The website will provide information about the content of the different courses in the program
+- Users will be able to view alumni’s projects
+- Users will be able to take a quiz as part of the website interactive activity   
 
 
 **OUT**:  
-        - The website will never turn into an IOS or Android app
+- The website will never turn into an IOS or Android app
 
 
 
