@@ -3,7 +3,7 @@
 /*NAV AND SUB NAV BAR*/
 .displayNav{
  display: inline-block;
- padding-left:  450px;
+ padding-left:  650px;
  margin-left: 110px;
 }
 .navbar {
@@ -23,6 +23,7 @@ margin-top: -10px; }
 #intro div img{
   float: left;
 margin-top: -45px;
+margin-left: 25px;
 }
 /* Navigation links */
 .navbar a {
@@ -386,5 +387,5 @@ p{
   font-family: 'Cairo', sans-serif;
 text-align: center;
 width: 800px;
-margin-left: 230px;
+margin-left: 353px;
 }
